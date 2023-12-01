@@ -5,6 +5,9 @@ description = ""
 authors = ["duncan-muir <muir.duncan@gmail.com>"]
 readme = "README.md"
 
+include = ["htbam_notebooks/*.ipynb"]
+exclude = ["*"]
+
 [tool.poetry.dependencies]
 python = ">=3.9, <3.10"
 
