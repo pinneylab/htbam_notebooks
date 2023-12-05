@@ -89,3 +89,6 @@ coverage.svg
 
 build/
 dist/
+
+#vscode mischief
+.vscode/
