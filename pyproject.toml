@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "htbam-notebooks"
-version = "0.2.2"
+version = "0.2.3"
 description = ""
 authors = ["duncan-muir <muir.duncan@gmail.com>"]
 readme = "README.md"
